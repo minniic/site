@@ -1,0 +1,26 @@
+body { background: linear-gradient(to left, black, gray);}
+nav a{
+    text-transform: uppercase;
+    text-align: center;
+    color: darkgray;
+    font-weight: 300 ;
+    font-size: 100%;
+    text-decoration: none;
+}
+.video {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+color: white;
+background-color: darkgray;
+font-size: 50px;
+}
+p {
+color: white;
+
+}
+h2{
+    color: white;
+    text-align: center;
+ }

@@ -1,0 +1,103 @@
+body {
+background: linear-gradient(to left, black, gray);
+
+}
+h1 {
+text-align: center;
+color: white;
+background-color: darkgray;
+font-size: 50px;
+}
+h2 {
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    }
+    .inicio {
+        text-align: center;
+    }
+    .Sinopse {
+color: white;
+
+    }
+    .coluna {
+
+        column-count: 2;
+     }
+    
+     h3 {
+        color: white;
+        text-align: center;
+     }
+     .personagens  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }
+     .personagens2  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }
+     .personagens3  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }
+     .personagens4  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }
+     .personagens0  {
+        
+column-count: 4;
+     }
+     .nomes {
+column-count: 4;
+color: white;
+     }
+     .personagens5  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }.personagens6  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }.personagens7  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }.personagens8  {
+        border: 10px solid darkgrey;
+        border-radius: 20px;
+
+     }
+     .personagens01  {
+        
+        column-count: 4;
+             }
+             .nomes2 {
+                column-count: 4;
+                color: white;
+                     }
+                     h4 {
+                        text-align: center;
+                        color: white;
+                        font-size: 25px;
+
+                    }
+                     
+                        .video  { 
+                            text-align: center;
+                        }
+                        nav a{
+                            text-transform: uppercase;
+                            text-align: center;
+                            color: darkgray;
+                            font-weight: 300 ;
+                            font-size: 100%;
+                            text-decoration: none;
+                        }
+                    
